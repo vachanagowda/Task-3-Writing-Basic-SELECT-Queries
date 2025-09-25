@@ -14,7 +14,7 @@ The goal of this task is to practice **basic SQL SELECT queries** to retrieve da
 
 ##  Files in this Repo  
 - `queries.sql` → Contains all the SQL queries for this task
-- `Outcome'    → Contains the results for this task
+- `Outcome`   → Contains the results for this task
 - `README.md` → Explanation of the task, queries, and outcomes  
 
 ---
